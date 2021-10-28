@@ -133,7 +133,7 @@ const Home = ({ route, navigation }) => {
       style={{
         flex: 1,
         justifyContent: "center",
-
+        padding: 5,
         backgroundColor: Color.acc,
       }}
     >

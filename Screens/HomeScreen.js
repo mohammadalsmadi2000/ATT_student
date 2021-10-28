@@ -242,7 +242,9 @@ const Home = ({ route, navigation }) => {
             }}
           >
             <Icon name="book" size={15} color="#00ADB5" />
-            <Text style={styles.loginTextEx}>Supporting companies PlatForms</Text>
+            <Text style={styles.loginTextEx}>
+              Supporting companies PlatForms
+            </Text>
             <Text></Text>
           </TouchableOpacity>
         </View>

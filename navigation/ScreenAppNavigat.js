@@ -1,6 +1,7 @@
 import { Button, Platform } from "react-native";
 import { createAppContainer, createSwitchNavigator } from "react-navigation";
 
+
 import Color from "../constant/Color";
 import HomeScreen from "../Screens/HomeScreen";
 import { Image } from "react-native";

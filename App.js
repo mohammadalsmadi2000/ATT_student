@@ -12,6 +12,7 @@ import {
 } from "react-native";
 import React, { useEffect, useState } from "react";
 
+
 import AppIntroSlider from "react-native-app-intro-slider";
 import AppLoading from "expo-app-loading";
 import AppStore from "./store/store";

@@ -4,6 +4,7 @@ import React from 'react';
 import { StyleSheet } from 'react-native';
 import nowTheme from '../constants/Theme';
 
+
 class ArButton extends React.Component {
   render() {
     const { small, shadowless, children, color, style, fontSize, round, ...props } = this.props;
